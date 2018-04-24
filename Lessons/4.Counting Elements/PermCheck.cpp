@@ -1,4 +1,4 @@
-
+/*
 
 A non-empty zero-indexed array A consisting of N integers is given.
 
@@ -55,7 +55,7 @@ Complexity:
 
 // you can write to stdout for debugging purposes, e.g.
 // cout << "this is a debug message" << endl;
-
+*/
 int solution(vector<int> &A) {
     // write your code in C++14 (g++ 6.2.0)
 
